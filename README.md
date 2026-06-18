@@ -48,6 +48,7 @@ StreamWeaver provides a centralized workspace for managing various stages of vid
 ---
 ## Folder Structure
 
+```text
 streamweaver-react
 │
 ├── public
@@ -82,7 +83,7 @@ streamweaver-react
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
-
+```
 ---
 ## Screenshots
  Dashboard Overview and Workspace
@@ -148,8 +149,10 @@ ITM Skills University, Navi Mumbai
 
 GitHub:
 https://github.com/saudamini-stackk
+
 LinkedIn:
 https://www.linkedin.com/in/saudamini-nayak-9b6872370/
+
 Email:
 2025.saudamini@isu.ac.in
 
